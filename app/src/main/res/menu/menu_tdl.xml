@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Từ đã lưu"
+        android:id="@+id/menu_tdl"></item>
+    <item android:title="Dịch văn bản"
+        android:id="@+id/menu_dvb"></item>
+</menu>
